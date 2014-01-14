@@ -24,7 +24,7 @@
     "url": "https://github.com/mozilla-b2g/marionette-plugin-forms/issues"
   },
   "dependencies": {
-    "marionette-client": "~0.13.3"
+    "marionette-client": "~1.1.0"
   },
   "devDependencies": {
     "mozilla-download": "~0.2.1",
